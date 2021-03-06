@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "polyShit", "polyShit\polyShit.csproj", "{92E1D061-7026-45C9-872F-C72D680292F6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "inheritShit", "inheritShit\inheritShit.csproj", "{87FF3666-3F7C-4374-AEC5-331E41300CAC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "inheritence", "inheritence\inheritence.csproj", "{90098695-2A6F-4F60-896B-FDF75CB859EC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{87FF3666-3F7C-4374-AEC5-331E41300CAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87FF3666-3F7C-4374-AEC5-331E41300CAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87FF3666-3F7C-4374-AEC5-331E41300CAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87FF3666-3F7C-4374-AEC5-331E41300CAC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{90098695-2A6F-4F60-896B-FDF75CB859EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90098695-2A6F-4F60-896B-FDF75CB859EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90098695-2A6F-4F60-896B-FDF75CB859EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90098695-2A6F-4F60-896B-FDF75CB859EC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
